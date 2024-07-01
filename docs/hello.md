@@ -8,8 +8,6 @@ sdfdsfdsfds
 
 [TopDev](https://topdev.vn)
 ![Image description](https://picsum.photos/800/600)
-<kbd>
-  <img src="https://picsum.photos/800/600" />
-</kbd>
+
 
 
